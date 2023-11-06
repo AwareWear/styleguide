@@ -27,7 +27,7 @@ export default function Layout() {
               1. Educational resources such as comprehensive articles and infographics detailing the impacts of the fast fashion industry on the environment, including water usage, carbon emissions, and labor practices.
             </p>
             <p className="mb-4 ml-2">
-              2. An interactive quiz designed to evaluate a user's knowledge of fashion sustainability, featuring questions on ethical sourcing, environmental impact, and best practices for clothing longevity and care.
+              2. An interactive quiz designed to evaluate a user&apos;s knowledge of fashion sustainability, featuring questions on ethical sourcing, environmental impact, and best practices for clothing longevity and care.
             </p>
             <p className="mb-4 ml-2">
               3. A curated list of textile sustainability resources, including a map of local eco-friendly stores, recycling depots, and upcycling workshops, encouraging users to participate in sustainable fashion consumption and disposal.
