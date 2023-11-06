@@ -33,7 +33,6 @@ export default function Layout() {
               3. A curated list of textile sustainability resources, including a map of local eco-friendly stores, recycling depots, and upcycling workshops, encouraging users to participate in sustainable fashion consumption and disposal.
             </p>
 
-
           </div>
         </div>
       </div>

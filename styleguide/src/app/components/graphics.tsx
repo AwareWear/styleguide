@@ -172,7 +172,7 @@ export default function Graphics() {
       </p>
       <br />
       <p className="mb-2 ml-4">
-        <b>3. Tertiary buttons</b>, with a more discreet design, will be employed for navigation within the application's interactive quiz section, guiding users through questions and leading them towards a more informed understanding of their fashion footprint.
+        <b>3. Tertiary buttons</b>, with a more discreet design, will be employed for navigation within the application&apos;s interactive quiz section, guiding users through questions and leading them towards a more informed understanding of their fashion footprint.
       </p>
 
     </div>
